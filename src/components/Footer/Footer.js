@@ -28,7 +28,7 @@ const Footer = () => {
               <a href="#">Book-IT</a>
             </p>
             <p>
-              <a href="https://github.com/yasaswini1">Portfolio</a>
+              <a href="https://github.com/sirivarenya">Portfolio</a>
             </p>
           </MDBCol>
 
